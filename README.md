@@ -18,7 +18,3 @@ Computer Science student in Frankfurt, Germany. I enjoy building things for the 
 ### 🌍 Languages
 
 German · English · Spanish · Hindi · Punjabi
-
-### 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-jashan.singh7480%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jashan.singh7480@gmail.com)
